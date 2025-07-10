@@ -53,6 +53,7 @@
 - 🌐 Portfolio: [amanportfolio24x7](https://amanportfolio24x7.netlify.app)
 - 💼 LinkedIn: [linkedin.com/in/aman-verma-770ab5252](https://www.linkedin.com/in/aman-verma-770ab5252)
 - ✉️ Email: [amanvermalmv211@gmail.com](mailto:amanvermalmv211@gmail.com)
+- 📞 Phone No: [+916306805527](tel:+916306805527)
 
 ---
 
