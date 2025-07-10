@@ -1,49 +1,61 @@
-<h2 align="left">Hi 👋! My name is Aman Verma and I'm a Full-Stack Web Developer, from Bangalore</h2>
+<h1 align="center">Hey there! 👋 I'm Aman Verma</h1>
 
-###
+<p align="center">
+  <b>Full-Stack Web Developer</b><br/>
+  <i>Crafting clean, scalable web solutions with modern tech</i>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🧑‍💻 About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- 🚀 Full-stack developer specializing in **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- 🧠 Passionate about building SaaS apps and developer-friendly tools
+- 📍 Currently based in **Bangalore**, exploring opportunities in tech.
+- 🔐 Focused on building secure, responsive, and scalable web applications
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### 🧑🏻‍💻 Tech Stack
 
-###
+#### 👨‍🏫 Languages & Fundamentals
+`JavaScript` · `TypeScript` · `Java` · `Python` · `HTML5` · `CSS3` · `SQL`
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+#### 🌐 Frontend
+`React.js` · `Tailwind CSS` · `Bootstrap` · `Vite`
 
-###
+#### 🛠 Backend
+`Node.js` · `Express.js` · `MongoDB` · `MySQL`
 
-<br clear="both">
+#### 🧰 Tools & DevOps
+`Git` · `GitHub` · `Postman` · `VS Code` · `Netlify` · `Render`
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### 🚀 Featured Projects
+
+#### 🔹 [meriLibrary.in](https://merilibrary.in)
+> A MERN-based platform connecting libraries and students — complete with admin and student roles, subscriptions, and auto-notifications.
+
+#### 🔹 [iTutors](https://itutors.netlify.app)
+> A coaching class management app to track students, payments, subscriptions, and notifications – built using TypeScript + MERN stack.
+
+#### 🔹 [shutterpics.in](https://shutterpics.in)
+> Developed a portfolio and booking website for a studio person to showcase his services and streamline client booking. Implemented user profiles, allowing clients to view photographer availability and book services directly.
+
+#### 🔹 [myjewelshop](https://myjewelshop.netlify.app)
+> Developed an e-commerce website using the MERN stack which has responsive, user-friendly interface with reusable React components for code efficiency and consistency across the website.
+
+---
+
+### 📬 Let's Connect
+
+- 🌐 Portfolio: [amanportfolio24x7](https://amanportfolio24x7.netlify.app)
+- 💼 LinkedIn: [linkedin.com/in/aman-verma-770ab5252](https://www.linkedin.com/in/aman-verma-770ab5252)
+- ✉️ Email: [amanvermalmv211@gmail.com](mailto:amanvermalmv211@gmail.com)
+
+---
+
+<p align="center">
+  ⚡ <i>"Code with purpose, build with passion."</i> ⚡
+</p>
